@@ -1,0 +1,7 @@
+---
+mysql_root_password: "Penjahat.2021#"
+app_user: "setya"
+http_host: "setya.ubuntu.mate"
+http_conf: "setya-ubuntu-mate.conf"
+http_port: "80"
+disable_default: true
